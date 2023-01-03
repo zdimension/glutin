@@ -1,6 +1,7 @@
 [workspace]
 members = [
     "glutin",
+    "glutin_emscripten_sys",
     "glutin_examples",
     "glutin_examples/ios-example/rust",
     "glutin_egl_sys",
